@@ -21,7 +21,7 @@ A simple Todo application with CRUD (Create, Read, Update, Delete) functionality
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/todo-application.git
+   git clone https://github.com/nistha/todo-crud
    cd todo-application
    ## API Endpoints
 
